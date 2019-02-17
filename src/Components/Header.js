@@ -32,8 +32,12 @@ class Header extends Component {
             hundreds of dollars every month. Simply unplugging these vampire
             chargers from the wall when not in use, puts extra money in your
             pocket.
+            <br /> <br />“In the United States alone, vampire power costs
+            consumers more than $3 billion a year.” -{" "}
+            <a href="">US Energy Information Administration</a>
           </p>
         </div>
+
         {/* <h3>Scroll Down to Learn More</h3> */}
       </div>
     );
