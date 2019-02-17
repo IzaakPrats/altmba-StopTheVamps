@@ -149,4 +149,8 @@ body {
   .Content img {
     max-width: 40%;
   }
+
+  .Content hr {
+    max-width: 0%;
+  }
 }
