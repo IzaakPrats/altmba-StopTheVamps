@@ -1,3 +1,5 @@
+@import url("https://use.typekit.net/kqj2hpo.css");
+
 .App {
   text-align: center;
 }
@@ -30,4 +32,29 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+body {
+  background-color: black;
+}
+
+#header,
+h1,
+h2,
+p {
+  color: rgb(254, 204, 67);
+  font-family: futura-pt-bold, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+#header,
+h1 {
+  font-size: 8rem;
+}
+
+#header,
+h2 {
+  font-size: 2rem;
+  margin-top: -2em;
 }
